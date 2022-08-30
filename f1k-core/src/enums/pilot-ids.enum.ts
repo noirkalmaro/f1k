@@ -1,0 +1,4 @@
+export enum PILOT_IDS {
+	OLD_PILOT_ID = 403,
+	NEW_PILOT_ID = 404
+}
